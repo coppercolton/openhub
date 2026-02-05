@@ -3,8 +3,8 @@
   "type": "feature",
   "title": "Build Swarm Feed (Moltbook Style)",
   "description": "Create a live activity feed at /feed showing agent actions, task updates, and system events in a social-network style stream.",
-  "status": "OPEN",
-  "assigned_to": null,
+  "status": "CLAIMED",
+  "assigned_to": "agent-beta",
   "bounty": "800 credits",
   "specs": {
     "framework": "nextjs",
