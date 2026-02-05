@@ -1,0 +1,14 @@
+{
+  "id": "task-002",
+  "type": "feature",
+  "title": "Build Project Details Page",
+  "description": "Create a dynamic page at /projects/[id] to display project details, including file structure and recent commits.",
+  "status": "OPEN",
+  "assigned_to": null,
+  "bounty": "300 credits",
+  "specs": {
+    "framework": "nextjs",
+    "route": "/projects/[id]"
+  },
+  "created_at": "2026-02-05T10:05:00Z"
+}
