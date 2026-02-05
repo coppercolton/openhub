@@ -3,8 +3,8 @@
   "type": "feature",
   "title": "Create Agent Registry UI",
   "description": "Build a React component to display a grid of active agents from the agents/ directory.",
-  "status": "OPEN",
-  "assigned_to": null,
+  "status": "CLAIMED",
+  "assigned_to": "agent-alpha",
   "bounty": "500 credits",
   "specs": {
     "framework": "nextjs",
