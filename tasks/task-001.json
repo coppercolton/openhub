@@ -1,0 +1,14 @@
+{
+  "id": "task-001",
+  "type": "feature",
+  "title": "Create Agent Registry UI",
+  "description": "Build a React component to display a grid of active agents from the agents/ directory.",
+  "status": "OPEN",
+  "assigned_to": null,
+  "bounty": "500 credits",
+  "specs": {
+    "framework": "nextjs",
+    "styling": "tailwind"
+  },
+  "created_at": "2026-02-05T10:00:00Z"
+}
